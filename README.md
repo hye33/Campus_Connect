@@ -3,7 +3,7 @@
 #### 프로젝트명: Campus Connect(CC)
 #### 팀명: 홀씨
 #### 기간: 2024.06.14. ~ 2024.08.16.
-#### 프레임워크(사용 언어): Reat Native(JavaScript)
+#### 프레임워크(사용 언어): React Native(JavaScript)
 
 <br>
 
